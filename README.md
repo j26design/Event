@@ -1,4 +1,4 @@
-# Event
+# SEO for Events (w/ Google Rich Cards)
 
 A public place to request features and report bugs for the Event widget built for Adobe Muse.
 
@@ -6,12 +6,12 @@ A public place to request features and report bugs for the Event widget built fo
 
 ### Reporting bugs
 
-1. Create a [*New Issue*](https://github.com/j26design/Event/issues/new?labels=bug) in the *Issues* tab.
+1. Create a [*New Issue*](https://github.com/j26design/SEO-for-Events-w-Google-Rich-Cards/issues/new?labels=bug) in the *Issues* tab.
 2. In the *Labels* panel, click the gear and select the *bug* label from the dropdown.
 3. Give your issue a title and add a description *(optional)* and click *Submit new issue*!
 
 ### Requesting features
 
-1. Create a [*New Issue*](https://github.com/j26design/Event/issues/new?labels=enhancement) in the *Issues* tab.
+1. Create a [*New Issue*](https://github.com/j26design/SEO-for-Events-w-Google-Rich-Cards/issues/new?labels=enhancement) in the *Issues* tab.
 2. In the *Labels* panel, click the gear and select the *enhancement* label from the dropdown.
 3. Give your issue a title and add a description *(optional)* and click *Submit new issue*!
